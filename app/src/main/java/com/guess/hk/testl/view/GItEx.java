@@ -1,4 +1,4 @@
 package com.guess.hk.testl.view;
 
-public class GItExa {
+public class GItEx {
 }
